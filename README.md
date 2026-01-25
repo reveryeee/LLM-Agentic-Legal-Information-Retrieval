@@ -1,5 +1,5 @@
 # 1. Description
-This is a Kaggle project with prize, aiming for constructing an agentic RAG system that accurately addresses cross-language queries for legal provisions.
+In this project, we aim to conduct a comparative study by constructing an agentic RAG system and a graph RAG system that can accurately address cross-language queries for legal provisions.
 
 # 2. Significance of the Project
 In jurisdictions with highly complex legal systems (such as Francophone and German-speaking regions), the value of this Agentic RAG system for in-house legal teams of multinational companies—especially startups—lies in the following aspects:
