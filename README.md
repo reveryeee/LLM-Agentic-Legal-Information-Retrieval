@@ -1,7 +1,7 @@
 # 1. Description
 In this project, we aim to build a high-accuracy cross-language legal consultation agentic system, primarily about searching German legal provisions&precedents in languages like Chinese and English.
 
-# 2. Significance of the Project and disadvantages of non-agent AI methods
+# 2. Significance of the Project
 In jurisdictions with highly complex legal systems (such as Francophone and German-speaking regions), the value of this Agentic RAG system for in-house legal teams of multinational companies—especially startups—lies in the following aspects:
 
 1. Breaking language barriers
@@ -16,7 +16,8 @@ Legal differences across European jurisdictions (for example, the cantons of Swi
 4. High-credibility citations
 Unlike general-purpose large language models that may hallucinate, this system enforces outputs grounded in official sources—exactly the “evidence chain” required for corporate legal decision-making.
 
-So, what are the disadvantages of non-agent AI methods, such as simply use the prompt to directly consult legal issues on the LLM (chatgpt, gemini, etc.) webpage?
+# 3. Disadvantages of non-agent AI methods
+So, what are the disadvantages of non-agent AI methods, such as simply use the prompt to directly consult legal issues on the LLM (chatgpt, gemini, etc.) webpage, or fine-tuning of the language models?
 1. 
-2.
-3.
+
+2. 
